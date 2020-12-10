@@ -1,0 +1,40 @@
+.p1 {
+  font-size: 1.4rem;
+  margin-bottom: 20px !important;
+  position: relative;
+
+  bottom: 32px;
+}
+
+.p2 {
+  font-size: 1.5rem;
+  letter-spacing: 0.8px;
+  margin-top: 20px !important;
+}
+
+.login-page {
+  background: linear-gradient(
+    to bottom right,
+    rgba(108, 113, 153, 0.5),
+    rgba(96, 143, 125, 0.5)
+  );
+}
+
+.login-container {
+  width: 50vw;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
